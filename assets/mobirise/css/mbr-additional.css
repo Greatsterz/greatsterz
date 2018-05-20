@@ -1472,6 +1472,9 @@ body {
 .cid-qSCsggKhBj .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-qSCsggKhBj foot-menu-item {
+  text-align: right;
+}
 .cid-qSCAkOVo9D {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1555,6 +1558,9 @@ body {
 }
 .cid-qSyU8ZTDZa .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-qSyU8ZTDZa foot-menu-item {
+  text-align: right;
 }
 .cid-qSyVSwJt2J {
   background: linear-gradient(45deg, #00a8fd, #2ee67e);
@@ -1670,4 +1676,80 @@ body {
 }
 .cid-qSyU8ZTDZa .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-qSyU8ZTDZa foot-menu-item {
+  text-align: right;
+}
+.cid-qSyU8ZTDZa {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-qSyU8ZTDZa .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSyU8ZTDZa .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qSyU8ZTDZa .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qSyU8ZTDZa .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qSyU8ZTDZa .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qSyU8ZTDZa .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qSyU8ZTDZa .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qSyU8ZTDZa .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qSyU8ZTDZa .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qSyU8ZTDZa .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qSyU8ZTDZa .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qSyU8ZTDZa .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qSyU8ZTDZa .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qSyU8ZTDZa .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qSyU8ZTDZa foot-menu-item {
+  text-align: right;
 }
